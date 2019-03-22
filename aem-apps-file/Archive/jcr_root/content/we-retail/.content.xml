@@ -14,7 +14,7 @@
         jcr:mixinTypes="[mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="We.Retail"
-        jcr:uuid="aa9b2334-93cf-4239-b885-466a69ec99e6"
+        jcr:uuid="ffbf40b0-695e-48b6-a221-75ee6130b194"
         sling:redirect="true"
         sling:redirectStatus="{Long}302"
         sling:resourceType="foundation/components/redirect"

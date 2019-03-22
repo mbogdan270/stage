@@ -3,17 +3,17 @@
 <properties>
 <comment>FileVault Package Properties</comment>
 <entry key="createdBy">admin</entry>
-<entry key="name">we.retail.ui.content</entry>
-<entry key="lastModified">2019-02-26T13:43:16.197Z</entry>
+<entry key="name">we.retail-bugfix</entry>
+<entry key="lastModified">2019-03-22T13:00:22.637Z</entry>
 <entry key="lastModifiedBy">admin</entry>
-<entry key="created">2019-02-26T13:43:16.210Z</entry>
+<entry key="created">2019-03-22T13:00:22.692Z</entry>
 <entry key="buildCount">1</entry>
-<entry key="version">1.0.0</entry>
-<entry key="packageType">mixed</entry>
+<entry key="version"/>
+<entry key="packageType">content</entry>
 <entry key="dependencies"/>
 <entry key="packageFormatVersion">2</entry>
-<entry key="description">UI content package for We.Retail</entry>
-<entry key="lastWrapped">2019-02-26T13:43:16.197Z</entry>
-<entry key="group">adobe/aem6/sample</entry>
+<entry key="description"/>
+<entry key="lastWrapped">2019-03-22T13:00:22.637Z</entry>
+<entry key="group">my_packages</entry>
 <entry key="lastWrappedBy">admin</entry>
 </properties>

@@ -12,7 +12,7 @@
         jcr:mixinTypes="[mix:versionable]"
         jcr:primaryType="cq:PageContent"
         jcr:title="United States"
-        jcr:uuid="5dab2740-404e-4400-9e94-9c384aa58a45"
+        jcr:uuid="64746a8c-cf95-40a7-87b4-d388db793095"
         sling:redirect="{Boolean}true"
         sling:redirectStatus="{Long}302"
         sling:resourceType="foundation/components/redirect"
