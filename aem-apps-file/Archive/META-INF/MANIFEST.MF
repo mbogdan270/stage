@@ -1,5 +1,0 @@
-Manifest-Version: 1.0
-Content-Package-Roots: /content/we-retail
-Content-Package-Type: content
-Content-Package-Id: my_packages:we.retail-bugfix
-
