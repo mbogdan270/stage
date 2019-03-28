@@ -1,4 +1,4 @@
-  #!/bin/bash
+#!/bin/bash
 
 cd /usr/src/app/Archive
 zip -r /usr/src/app/Archive.zip jcr_root META-INF
