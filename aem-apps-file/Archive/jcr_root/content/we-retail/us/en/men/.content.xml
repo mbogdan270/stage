@@ -148,7 +148,7 @@
                     jcr:lastModifiedBy="admin"
                     jcr:mixinTypes="[cq:LiveRelationship]"
                     jcr:primaryType="nt:unstructured"
-                    jcr:title="Men's top fff "
+                    jcr:title="Men's top adob "
                     sling:resourceType="we-retail/components/content/title"/>
                 <articles_list
                     cq:lastRolledout="{Date}2016-03-14T22:18:58.024+01:00"
