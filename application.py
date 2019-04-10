@@ -9,3 +9,4 @@ if __name__ == '__main__':
     port = '4503'
     command = "/usr/src/app/push_publisher.sh xvfT9T4FRCWV=W@v?=+Q}GHL"
     os.system(command)
+    exit(0)
